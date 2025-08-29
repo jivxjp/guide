@@ -10,8 +10,8 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "JIVX",
-  tagline: "open-source guide to root in Japan",
+  title: "𝕁𝕀𝕍𝕏",
+  tagline: "open-source guide to rooting in Japan",
   favicon: "img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -62,24 +62,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "JIVX",
+        title: "𝕁𝕀𝕍𝕏",
         logo: {
-          alt: "JIVX",
+          alt: "jivx",
           src: "img/logo.png",
         },
-        items: [
-          {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
-            position: "left",
-            label: "docs",
-          },
-          {
-            href: "https://github.com/jivxjp/guide",
-            label: "github",
-            position: "right",
-          },
-        ],
+        items: [],
       },
       prism: {
         theme: prismThemes.github,
