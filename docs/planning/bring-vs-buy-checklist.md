@@ -3,7 +3,7 @@ title: "bring vs buy checklist"
 sidebar_position: 4
 ---
 
-# The art of arriving: a grounded guide to bringing and buying for life in Japan
+# The Art of Arriving: A Grounded Guide to Bringing and Buying for Life in Japan
 
 ## Preparing to meet the unknown
 

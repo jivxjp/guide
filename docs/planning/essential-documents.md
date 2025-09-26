@@ -3,7 +3,7 @@ title: "essential documents"
 sidebar_position: 2
 ---
 
-# The pilgrim’s pack: a grounded guide to your pre-arrival documents for Japan
+# The Pilgrim’s Pack: A Grounded Guide to Your Pre-Arrival Documents for Japan
 
 ## The paper path: not a hurdle, but a rite
 

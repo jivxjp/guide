@@ -3,7 +3,7 @@ title: "initial housing plan"
 sidebar_position: 3
 ---
 
-# The first key: finding your initial home in Japan
+# The First Key: Finding Your Initial Home in Japan
 
 ## Entering through the doorway of place
 

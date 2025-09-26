@@ -3,7 +3,7 @@ title: "visa types"
 sidebar_position: 1
 ---
 
-# The unfolding path: a grounded guide to Japan’s long-term visas
+# The Unfolding Path: A Grounded Guide to Japan’s Long-Term Visas
 
 ## First contact: the visa as initiation
 
