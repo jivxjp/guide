@@ -74,6 +74,14 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+
+  scripts: [
+    {
+      src: "https://beamanalytics.b-cdn.net/beam.min.js",
+      async: true,
+      "data-token": "31849e6a-ced4-4736-a35e-718f63f83486",
+    },
+  ],
 };
 
 export default config;
