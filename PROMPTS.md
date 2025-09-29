@@ -34,6 +34,6 @@ tone: calm, grounded, mature. no marketing speak. just real talk with presence.
 
 this is for an integration guide for foreigners settling in japan. all content should feel like it’s part of a coherent, sacred-yet-earthy field guide. if there’s any sentence that doesn’t contribute to that vibe, cut or reword it.
 
-the output format should be in markdown text so that it will be easy to copy and paste afterwards to a .md file
+the output format should be in markdown text in <code> formatting so that it will be easy to copy and paste afterwards to a .md file
 
 edit the article below in one go:
